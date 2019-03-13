@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487030011311",
+    "firebase_url": "https://fastbook-cf08a.firebaseio.com",
+    "project_id": "fastbook-cf08a",
+    "storage_bucket": "fastbook-cf08a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487030011311:android:3f25c4573b2d4959",
+        "android_client_info": {
+          "package_name": "com.shahrukh.shanhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487030011311-i5g1bn3tnlco8uqe368at0dpi0utji5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shahrukh.shanhere",
+            "certificate_hash": "7d18ef6f3691f2987f1b6e4fe4710528d4fdd3b5"
+          }
+        },
+        {
+          "client_id": "487030011311-bbsvidq8ocuj3v0jro795id6ar8h7rae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrH1Xw2ynb6AXSxqPQrrWZ-If1V_PJifA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487030011311-bbsvidq8ocuj3v0jro795id6ar8h7rae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
